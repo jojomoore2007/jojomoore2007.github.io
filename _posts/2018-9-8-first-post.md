@@ -2,7 +2,7 @@
 layout: post
 title: "Our first post!"
 author: "Joey Moore"
-tags: "Awesome! First_Post! New!"
+tags: "Awesome! First&nbsp;Post! New!"
 ---
 # Hello users!
 This is our first blog post!
