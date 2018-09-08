@@ -5,7 +5,8 @@ author: "Joey Moore"
 ---
 # Hello users!
 This is our first blog post!
-//This is a comment! You can only see it in the source editor.(Unless you're using code markup with backticks.) I'll use them to show what the code does.
+
+<!--This is a comment! You can only see it in the source editor.(Unless you're using code markup with backticks.) I'll use them to show what the code does.-->
 
 You'll see code like Markdown, and other stuff.
 
