@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "Our first post!"
+author: "Joey Moore"
 ---
 # Hello users!
 This is our first blog post!
