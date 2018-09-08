@@ -6,7 +6,7 @@ You can also view the source code [here,](https://github.com/jojomoore2007/theco
 <ul>
   {% for post in site.posts %}
     <li>
-      <a href="{{ post.url }}">{{ post.title }}</a>
+      <a href=".{{ post.url }}">{{ post.title }}</a>
     </li>
   {% endfor %}
 </ul>
