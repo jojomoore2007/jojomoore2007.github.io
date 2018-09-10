@@ -7,7 +7,7 @@ Hello everyone!
 
 Because the amount of coding opportunities is steadily - no wait, [deliberately][2] - opening wider and wider, I decided to make the website you see here. Yes, this is a reality, and no, robots aren't going to take over the world. People like to include a self destruct button in their projects, just in case anything goes wrong.
 
-[2]: https://thecodersite.weebly.com "WAIT A SECOND..."
+[2]: https://codersite.weebly.com "WAIT A SECOND..."
 Hope you enjoyed!
 
 -Joey
