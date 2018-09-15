@@ -9,9 +9,7 @@ All posts, sorted by category:
   </ul>
 {% endfor %}
 
-All posts, sorted by date:
-
-{% for category in site.posts.date %}
+{% for category in site. %}
   <h4>{{ category[0] }}</h4>
   <ul>
     {% for post in category[1] %}
