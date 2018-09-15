@@ -21,7 +21,7 @@ This is pretty cool, am I right?
 ## H2
 ### H3
 
-[I'm a link!](./2018-9-8-first-post.html)
+[I'm a link!](./first-post.html)
 ```
 
 ```html
@@ -45,7 +45,7 @@ This is pretty cool, am I right?
     <h3>
       H3
     </h3>
-    <a href="./2018-9-8-first-post.html">I'm a link!</a>
+    <a href="./first-post.html">I'm a link!</a>
   </body>
 </html>
 ```
