@@ -1,3 +1,4 @@
 theme: jekyll-theme-minimal
 title: Joey's Blog
 description: A blog of events, ideas, or anything else that I find interesting.
+excerpt_seperator: <!--more-->
